@@ -1,4 +1,4 @@
-# Bioinformatics
-Code of Global Alignment 
+# Bioinformatics Questions
+Code for Global Alignment 
 
-Code of Conversion of DNA Seq to Protein Seq
+Code for Conversion of DNA Seq to Protein Seq
